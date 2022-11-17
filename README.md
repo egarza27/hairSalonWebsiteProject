@@ -1,1 +1,1 @@
-# hairSalonWebsiteProject
+# hairSalonWebsite
